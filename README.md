@@ -1,9 +1,9 @@
 Hello!👋
 My name is Rajan Patel 
 ========================================================================================================================================
-I am a Front-End Developer based in London, U.K 📍
+I am a Developer based in London, U.K 📍
 <br/>
-<br/> Currently, I am focused on how to inplement more advanced javascript functionality into my front-end projects alongside learning new libraries such as React!
+<br/> Currently, I am focused on how to inplement more back-end functionality into my front-end projects alongside learning new libraries such as React!
 
 
 ### Skills
