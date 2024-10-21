@@ -8,7 +8,7 @@ I am a Developer based in London, U.K 📍
 
 ### Skills
 
-[![My Skills](https://skillicons.dev/icons?i=html,css)](https://skillicons.dev) &nbsp; [![My Skills](https://skillicons.dev/icons?i=js)](https://skillicons.dev) &nbsp; [![My Skills](https://skillicons.dev/icons?i=react)](https://skillicons.dev) &nbsp; [![My Skills](https://skillicons.dev/icons?i=scss)](https://skillicons.dev) &nbsp; [![My Skills](https://skillicons.dev/icons?i=python)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=python)](https://skillicons.dev) &nbsp; [![My Skills](https://skillicons.dev/icons?i=html,css)](https://skillicons.dev) &nbsp; [![My Skills](https://skillicons.dev/icons?i=js)](https://skillicons.dev) &nbsp; [![My Skills](https://skillicons.dev/icons?i=react)](https://skillicons.dev) &nbsp; [![My Skills](https://skillicons.dev/icons?i=scss)](https://skillicons.dev)
 <br/>
 
 ### Socials
