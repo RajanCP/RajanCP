@@ -8,8 +8,7 @@ I am a Developer based in London, U.K 📍
 
 ### Skills
 
-![My Skills](https://skillicons.dev/icons?i=java)&nbsp;&nbsp;![My Skills](https://skillicons.dev/icons?i=html,css)&nbsp;&nbsp;![My Skills](https://skillicons.dev/icons?i=js)&nbsp;&nbsp;![My Skills](https://skillicons.dev/icons?i=typescript)&nbsp;&nbsp;![My Skills](https://skillicons.dev/icons?i=scss)&nbsp;&nbsp;![My Skills](https://skillicons.dev/icons?i=spring)&nbsp;&nbsp;![My Skills](https://skillicons.dev/icons?i=sql)
-<br/>
+![My Skills](https://skillicons.dev/icons?i=html,css,scss,js,ts,java,spring)
 <br/>
 <br/>
 
